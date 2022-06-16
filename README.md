@@ -7,4 +7,4 @@ I develop projects for me and people around, touch with electronic world and cry
 
 I am crazy aviation geek with my little pet project of a home simulator for Boeing 737NG.
 
-For bussiness and professional relations, contact me via e-mail at my website www.wortelus.eu
+www.wortelus.eu
