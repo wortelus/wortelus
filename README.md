@@ -1,9 +1,9 @@
-I am Back-End Software Developer.
+Wortelus
 
-Algoritmization, reverse-engineering, and creating approaches to solve problems is my most favourite part of software development.
+Making stuff do more stuff, reverse-engineering, and tearing down problems.
 
-Studying at VŠB Technical University of Ostrava, Computer Science.
-
-I am crazy aviation geek with my little pet project of a home simulator for Boeing 737NG.
+- 🎓 **(Bc.)** Bachelor in Computer Science, VŠB Technical University of Ostrava.
+- 🚀 Pursuing **(Ing.)** Master's Degree in **Data analysis and processing**. Still sharpening the craft, still digging deeper.
+- ✈️ **Aviation enthusiast** - working on little pet project... Boeing 737NG home flight deck
 
 www.wortelus.eu
