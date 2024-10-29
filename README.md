@@ -6,4 +6,4 @@ Making stuff do more stuff, reverse-engineering, and tearing down problems.
 - 🚀 Pursuing **(Ing.)** Master's Degree in **Data analysis and processing**.
 - ✈️ **Aviation enthusiast** - working on little pet project... Boeing 737NG home flight deck.
 
-www.wortelus.eu
+[wortelus.eu](https://wortelus.eu)
